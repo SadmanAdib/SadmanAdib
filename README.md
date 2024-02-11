@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Sadman Adib
 - 👀 I’m interested in native iOS development
-- 🌱 Currently, I am learning iOS development using Swift and SwiftUI
+- 🌱 Delving into iOS Development with Swift and SwiftUI
 - 📫 Email: sadmanadib67@gmail.com
 
 <!---
